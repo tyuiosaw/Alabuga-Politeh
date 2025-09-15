@@ -1,0 +1,219 @@
+.background {
+    background-color: bisque;
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    border-radius: 23px;
+}
+
+h2 {
+    text-transform:uppercase;
+    text-align: center;
+    margin-top: -10px;
+}
+
+p {
+    margin-top: -21px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+img{
+    padding-top: 10px;
+    height: 185px;
+    width: 185px;
+    align-self: center;
+}
+
+.card2{
+    margin-left: 300px;
+    margin-top: -300px;
+}
+
+.card3{
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+.card1{
+    display:inline-block;
+}
+
+.head {
+    background-color: #ffe4c4;
+    height: 60px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left:-20px;
+    margin-right: -30px;
+}
+
+.logo {
+    margin-top: -67px;
+    margin-left: -1800px;
+    width: 80px;
+    height: 80px;
+}
+
+.button-link {  /* кнопка выхода*/
+  display: inline-block; /* Чтобы задать отступы и размеры */
+  background-color: #ffc278; /* Синий фон */
+  color: black; /* Белый текст */
+  padding: 10px 20px; /* Внутренние отступы */
+  text-align: center; /* Центрирование текста */
+  text-decoration: none; /* Убрать подчеркивание ссылки */
+  border-radius: 5px; /* Скругленные углы */
+  border: none; /* Убрать стандартную рамку */
+  cursor: pointer; /* Изменить курсор на руку при наведении */
+  margin-left: 900px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.button-link:hover {
+  background-color:#b68a54; /* Цвет при наведении */
+}
+
+.spisok {
+    list-style: none;
+    margin-top:-45px;
+}
+
+.user {
+    margin-top: -40px;
+    margin-left: 1750px;
+    width: 50px;
+    height: 50px;
+}
+
+.ref1 {
+    display: inline-block;
+    background-color: #11e9a1; 
+    color: black; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer; 
+}
+
+.ref1:hover{
+    background-color: #0dbb81;
+}
+
+.ref2 {
+    display: inline-block; 
+    background-color: #11e9a1;
+    color: black; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer; 
+}
+
+.ref2:hover{
+    background-color: #0dbb81;
+}
+
+.nv{
+    margin-left: 865px;
+    margin-top: -50px;
+    margin-bottom: 40px;
+}
+
+.cards {
+    margin-left: 530px;
+}
+
+.ppl {
+    display: inline-block;
+    background-color: #11e9a1; 
+    color: black; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer; 
+    margin-top:5px;
+    margin-left: 1750px;
+}
+
+body {
+    background-image: url('background\ picture.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1920px 900px;
+}
+.notific {
+    width: 60px;
+    height: 60px;
+    margin-top: -45px;
+    margin-left: 1440px;
+}
+
+.pl {
+    display: inline-block;
+    background-color: #11e9a1; 
+    color: black; 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer; 
+    margin-left:1451px;
+    margin-top:-5px;
+}
+
+.pzdc {
+    margin-left:180px;
+    margin-top: -55px;
+}
+
+
+.footer-line {
+    background-color: rgb(255, 0, 200);
+    margin-top: 300px;
+    text-align: center;
+    color: white;
+}
+
+.vanya {
+    list-style: none;
+    margin-top: 15px;
+    display: inline-block;
+    background-color: #11e9a1; 
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer; 
+    margin-left:800px;
+    margin-top:10px;
+}
+
+.vanya:hover{
+    background-color: rgb(66, 21, 21);
+}
+
+
+.dolbaeb{
+    list-style: none;
+    margin-top: 15px;
+    display: inline-block;
+    background-color: #11e9a1; 
+    color: rgb(255, 255, 255); 
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    border: none; 
+    cursor: pointer;
+    margin-left:890px;
+}
+
